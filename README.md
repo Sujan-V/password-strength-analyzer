@@ -1,4 +1,4 @@
-# CRYPTOSHIELD // Password Strength Analyzer (v2.0.4)
+# CRYPTOSHIELD - Password Strength Analyzer (v2.0.4)
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-emerald.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Built with React](https://img.shields.io/badge/Built--With-React--19-bg-slate-950?logo=react)](https://react.dev)
