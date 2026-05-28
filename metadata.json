@@ -1,0 +1,6 @@
+{
+  "name": "Password Strength Analyzer",
+  "description": "A futuristic cybersecurity dashboard and real-time password strength analyzer with brute-force estimation, sequence pattern detection, and secure generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
